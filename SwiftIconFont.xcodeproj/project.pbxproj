@@ -7,53 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1AF15B94209E196500E20C14 /* SegoeMDL2Assets.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1AF15B93209E196500E20C14 /* SegoeMDL2Assets.ttf */; };
-		1AF15B96209E198D00E20C14 /* SegoeMDL2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF15B95209E198D00E20C14 /* SegoeMDL2.swift */; };
-		DA223AA91F160FAC005915D0 /* SwiftIconFontView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA223AA81F160FAC005915D0 /* SwiftIconFontView.swift */; };
-		DA639C421F62B959004810A6 /* SwiftIconStepper.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA639C411F62B959004810A6 /* SwiftIconStepper.swift */; };
-		DA8D9D151D345A3800F5E693 /* SwiftIconFont.h in Headers */ = {isa = PBXBuildFile; fileRef = DA8D9D141D345A3800F5E693 /* SwiftIconFont.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DA8D9D1C1D345A3800F5E693 /* SwiftIconFont.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DA8D9D111D345A3800F5E693 /* SwiftIconFont.framework */; };
 		DA8D9D211D345A3800F5E693 /* SwiftIconFontTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8D9D201D345A3800F5E693 /* SwiftIconFontTests.swift */; };
-		DA8D9D341D345A4500F5E693 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DA8D9D2D1D345A4500F5E693 /* Ionicons.ttf */; };
-		DA8D9D351D345A4500F5E693 /* map-icons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DA8D9D2E1D345A4500F5E693 /* map-icons.ttf */; };
-		DA8D9D361D345A4500F5E693 /* MaterialIcons-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DA8D9D2F1D345A4500F5E693 /* MaterialIcons-Regular.ttf */; };
-		DA8D9D371D345A4500F5E693 /* octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DA8D9D301D345A4500F5E693 /* octicons.ttf */; };
-		DA8D9D381D345A4500F5E693 /* open-iconic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DA8D9D311D345A4500F5E693 /* open-iconic.ttf */; };
-		DA8D9D391D345A4500F5E693 /* themify.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DA8D9D321D345A4500F5E693 /* themify.ttf */; };
-		DA8D9D4A1D345A4900F5E693 /* FontAwesome.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8D9D3B1D345A4900F5E693 /* FontAwesome.swift */; };
-		DA8D9D4B1D345A4900F5E693 /* FontLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8D9D3C1D345A4900F5E693 /* FontLoader.swift */; };
-		DA8D9D4C1D345A4900F5E693 /* Iconic.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8D9D3D1D345A4900F5E693 /* Iconic.swift */; };
-		DA8D9D4D1D345A4900F5E693 /* IonIcons.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8D9D3E1D345A4900F5E693 /* IonIcons.swift */; };
-		DA8D9D4E1D345A4900F5E693 /* MapIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8D9D3F1D345A4900F5E693 /* MapIcon.swift */; };
-		DA8D9D4F1D345A4900F5E693 /* MaterialIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8D9D401D345A4900F5E693 /* MaterialIcon.swift */; };
-		DA8D9D501D345A4900F5E693 /* Octicon.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8D9D411D345A4900F5E693 /* Octicon.swift */; };
-		DA8D9D511D345A4900F5E693 /* SwiftIconBarButtonItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8D9D421D345A4900F5E693 /* SwiftIconBarButtonItem.swift */; };
-		DA8D9D521D345A4900F5E693 /* SwiftIconButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8D9D431D345A4900F5E693 /* SwiftIconButton.swift */; };
-		DA8D9D531D345A4900F5E693 /* SwiftIconFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8D9D441D345A4900F5E693 /* SwiftIconFont.swift */; };
-		DA8D9D541D345A4900F5E693 /* SwiftIconLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8D9D451D345A4900F5E693 /* SwiftIconLabel.swift */; };
-		DA8D9D551D345A4900F5E693 /* SwiftIconTabBarItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8D9D461D345A4900F5E693 /* SwiftIconTabBarItem.swift */; };
-		DA8D9D561D345A4900F5E693 /* SwiftIconTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8D9D471D345A4900F5E693 /* SwiftIconTextField.swift */; };
-		DA8D9D571D345A4900F5E693 /* SwiftIconTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8D9D481D345A4900F5E693 /* SwiftIconTextView.swift */; };
-		DA8D9D581D345A4900F5E693 /* ThemifyIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA8D9D491D345A4900F5E693 /* ThemifyIcon.swift */; };
-		DAD008211F90D16500D4FC34 /* SwiftIconFont+UIImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD008201F90D16500D4FC34 /* SwiftIconFont+UIImage.swift */; };
-		DAD008241F90D1D500D4FC34 /* SwiftIconFont+NSRange.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD008231F90D1D500D4FC34 /* SwiftIconFont+NSRange.swift */; };
-		DAD008261F90D21F00D4FC34 /* SwiftIconFont+UITabBarItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD008251F90D21F00D4FC34 /* SwiftIconFont+UITabBarItem.swift */; };
-		DAD008281F90D23300D4FC34 /* SwiftIconFont+UIBarButtonItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD008271F90D23300D4FC34 /* SwiftIconFont+UIBarButtonItem.swift */; };
-		DAD0082A1F90D24F00D4FC34 /* SwiftIconFont+UIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD008291F90D24F00D4FC34 /* SwiftIconFont+UIButton.swift */; };
-		DAD0082C1F90D26700D4FC34 /* SwiftIconFont+UITextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD0082B1F90D26700D4FC34 /* SwiftIconFont+UITextField.swift */; };
-		DAD0082E1F90D28300D4FC34 /* SwiftIconFont+UITextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD0082D1F90D28300D4FC34 /* SwiftIconFont+UITextView.swift */; };
-		DAD008301F90D2A700D4FC34 /* SwiftIconFont+UILabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD0082F1F90D2A700D4FC34 /* SwiftIconFont+UILabel.swift */; };
-		DAD008341F90D2FC00D4FC34 /* SwiftIconFont+String.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD008331F90D2FC00D4FC34 /* SwiftIconFont+String.swift */; };
-		DAD008381F90D44C00D4FC34 /* SwiftIconFont+UIImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DAD008371F90D44C00D4FC34 /* SwiftIconFont+UIImageView.swift */; };
-		E809BAF9248D6A1E0039AAE0 /* SwiftIconFontNSView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E809BAF8248D6A1E0039AAE0 /* SwiftIconFontNSView.swift */; };
-		E80E87F1248D7B230053475F /* Types.swift in Sources */ = {isa = PBXBuildFile; fileRef = E80E87F0248D7B230053475F /* Types.swift */; };
-		E8244846248D245A0029AA09 /* SwiftIconFont+NSButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8244845248D245A0029AA09 /* SwiftIconFont+NSButton.swift */; };
-		E884A47D248C21E00002AAAA /* SwiftIconFont+NSTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = E884A47C248C21E00002AAAA /* SwiftIconFont+NSTextField.swift */; };
-		E8D081632488F663005A139F /* SwiftIconFont+NSImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8D081622488F663005A139F /* SwiftIconFont+NSImage.swift */; };
-		E8E47629248855DE005275C4 /* Foundation.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E47628248855DE005275C4 /* Foundation.swift */; };
-		E8E4762B24885663005275C4 /* FontAwesome5.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E4762A24885662005275C4 /* FontAwesome5.swift */; };
-		E8E47631248859A4005275C4 /* ElegantIcon.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E47630248859A4005275C4 /* ElegantIcon.swift */; };
-		E8E4763424885D85005275C4 /* Captain.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8E4763324885D85005275C4 /* Captain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,62 +22,63 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1AF15B93209E196500E20C14 /* SegoeMDL2Assets.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SegoeMDL2Assets.ttf; sourceTree = "<group>"; };
-		1AF15B95209E198D00E20C14 /* SegoeMDL2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegoeMDL2.swift; sourceTree = "<group>"; };
-		DA223AA81F160FAC005915D0 /* SwiftIconFontView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftIconFontView.swift; sourceTree = "<group>"; };
-		DA639C411F62B959004810A6 /* SwiftIconStepper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftIconStepper.swift; sourceTree = "<group>"; };
 		DA8D9D111D345A3800F5E693 /* SwiftIconFont.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SwiftIconFont.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		DA8D9D141D345A3800F5E693 /* SwiftIconFont.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SwiftIconFont.h; sourceTree = "<group>"; };
-		DA8D9D161D345A3800F5E693 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DA8D9D1B1D345A3800F5E693 /* SwiftIconFontTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftIconFontTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DA8D9D201D345A3800F5E693 /* SwiftIconFontTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftIconFontTests.swift; sourceTree = "<group>"; };
 		DA8D9D221D345A3800F5E693 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DA8D9D2D1D345A4500F5E693 /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ionicons.ttf; sourceTree = "<group>"; };
-		DA8D9D2E1D345A4500F5E693 /* map-icons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "map-icons.ttf"; sourceTree = "<group>"; };
-		DA8D9D2F1D345A4500F5E693 /* MaterialIcons-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MaterialIcons-Regular.ttf"; sourceTree = "<group>"; };
-		DA8D9D301D345A4500F5E693 /* octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = octicons.ttf; sourceTree = "<group>"; };
-		DA8D9D311D345A4500F5E693 /* open-iconic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "open-iconic.ttf"; sourceTree = "<group>"; };
-		DA8D9D321D345A4500F5E693 /* themify.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = themify.ttf; sourceTree = "<group>"; };
-		DA8D9D3B1D345A4900F5E693 /* FontAwesome.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontAwesome.swift; sourceTree = "<group>"; };
-		DA8D9D3C1D345A4900F5E693 /* FontLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontLoader.swift; sourceTree = "<group>"; };
-		DA8D9D3D1D345A4900F5E693 /* Iconic.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Iconic.swift; sourceTree = "<group>"; };
-		DA8D9D3E1D345A4900F5E693 /* IonIcons.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IonIcons.swift; sourceTree = "<group>"; };
-		DA8D9D3F1D345A4900F5E693 /* MapIcon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MapIcon.swift; sourceTree = "<group>"; };
-		DA8D9D401D345A4900F5E693 /* MaterialIcon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MaterialIcon.swift; sourceTree = "<group>"; };
-		DA8D9D411D345A4900F5E693 /* Octicon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Octicon.swift; sourceTree = "<group>"; };
-		DA8D9D421D345A4900F5E693 /* SwiftIconBarButtonItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftIconBarButtonItem.swift; sourceTree = "<group>"; };
-		DA8D9D431D345A4900F5E693 /* SwiftIconButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftIconButton.swift; sourceTree = "<group>"; };
-		DA8D9D441D345A4900F5E693 /* SwiftIconFont.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftIconFont.swift; sourceTree = "<group>"; };
-		DA8D9D451D345A4900F5E693 /* SwiftIconLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftIconLabel.swift; sourceTree = "<group>"; };
-		DA8D9D461D345A4900F5E693 /* SwiftIconTabBarItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftIconTabBarItem.swift; sourceTree = "<group>"; };
-		DA8D9D471D345A4900F5E693 /* SwiftIconTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftIconTextField.swift; sourceTree = "<group>"; };
-		DA8D9D481D345A4900F5E693 /* SwiftIconTextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftIconTextView.swift; sourceTree = "<group>"; };
-		DA8D9D491D345A4900F5E693 /* ThemifyIcon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThemifyIcon.swift; sourceTree = "<group>"; };
-		DAD008201F90D16500D4FC34 /* SwiftIconFont+UIImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+UIImage.swift"; sourceTree = "<group>"; };
-		DAD008231F90D1D500D4FC34 /* SwiftIconFont+NSRange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+NSRange.swift"; sourceTree = "<group>"; };
-		DAD008251F90D21F00D4FC34 /* SwiftIconFont+UITabBarItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+UITabBarItem.swift"; sourceTree = "<group>"; };
-		DAD008271F90D23300D4FC34 /* SwiftIconFont+UIBarButtonItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+UIBarButtonItem.swift"; sourceTree = "<group>"; };
-		DAD008291F90D24F00D4FC34 /* SwiftIconFont+UIButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+UIButton.swift"; sourceTree = "<group>"; };
-		DAD0082B1F90D26700D4FC34 /* SwiftIconFont+UITextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+UITextField.swift"; sourceTree = "<group>"; };
-		DAD0082D1F90D28300D4FC34 /* SwiftIconFont+UITextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+UITextView.swift"; sourceTree = "<group>"; };
-		DAD0082F1F90D2A700D4FC34 /* SwiftIconFont+UILabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+UILabel.swift"; sourceTree = "<group>"; };
-		DAD008331F90D2FC00D4FC34 /* SwiftIconFont+String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+String.swift"; sourceTree = "<group>"; usesTabs = 0; };
-		DAD008371F90D44C00D4FC34 /* SwiftIconFont+UIImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+UIImageView.swift"; sourceTree = "<group>"; };
-		E809BAF8248D6A1E0039AAE0 /* SwiftIconFontNSView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftIconFontNSView.swift; sourceTree = "<group>"; };
-		E80E87F0248D7B230053475F /* Types.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Types.swift; sourceTree = "<group>"; };
-		E8244845248D245A0029AA09 /* SwiftIconFont+NSButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+NSButton.swift"; sourceTree = "<group>"; };
-		E884A47C248C21E00002AAAA /* SwiftIconFont+NSTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+NSTextField.swift"; sourceTree = "<group>"; };
-		E8D081622488F663005A139F /* SwiftIconFont+NSImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+NSImage.swift"; sourceTree = "<group>"; };
-		E8E476272488556C005275C4 /* fontcustom.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = fontcustom.ttf; sourceTree = "<group>"; };
-		E8E47628248855DE005275C4 /* Foundation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Foundation.swift; sourceTree = "<group>"; };
-		E8E4762A24885662005275C4 /* FontAwesome5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontAwesome5.swift; sourceTree = "<group>"; };
-		E8E4762C248856CB005275C4 /* FontAwesome5Free-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FontAwesome5Free-Regular.ttf"; sourceTree = "<group>"; };
-		E8E4762D248856CB005275C4 /* FontAwesome5Brands-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FontAwesome5Brands-Regular.ttf"; sourceTree = "<group>"; };
-		E8E4762E248856CB005275C4 /* FontAwesome5Free-Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FontAwesome5Free-Solid.ttf"; sourceTree = "<group>"; };
-		E8E4762F24885945005275C4 /* ElegantIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ElegantIcons.ttf; sourceTree = "<group>"; };
-		E8E47630248859A4005275C4 /* ElegantIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElegantIcon.swift; sourceTree = "<group>"; };
-		E8E4763224885D4C005275C4 /* captainicon.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = captainicon.ttf; sourceTree = "<group>"; };
-		E8E4763324885D85005275C4 /* Captain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Captain.swift; sourceTree = "<group>"; };
+		F4EDF2782927E5A8004FA2D8 /* SwiftIconFont+UITextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+UITextField.swift"; sourceTree = "<group>"; };
+		F4EDF2792927E5A8004FA2D8 /* SwiftIconBarButtonItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftIconBarButtonItem.swift; sourceTree = "<group>"; };
+		F4EDF27A2927E5A8004FA2D8 /* SwiftIconImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftIconImageView.swift; sourceTree = "<group>"; };
+		F4EDF27B2927E5A8004FA2D8 /* SwiftIconFont+UILabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+UILabel.swift"; sourceTree = "<group>"; };
+		F4EDF27C2927E5A8004FA2D8 /* SwiftIconFontView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftIconFontView.swift; sourceTree = "<group>"; };
+		F4EDF27D2927E5A8004FA2D8 /* SwiftIconFont+UIImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+UIImage.swift"; sourceTree = "<group>"; };
+		F4EDF27E2927E5A8004FA2D8 /* SwiftIconFont+UIImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+UIImageView.swift"; sourceTree = "<group>"; };
+		F4EDF27F2927E5A8004FA2D8 /* SwiftIconTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftIconTextView.swift; sourceTree = "<group>"; };
+		F4EDF2802927E5A8004FA2D8 /* SwiftIconButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftIconButton.swift; sourceTree = "<group>"; };
+		F4EDF2812927E5A8004FA2D8 /* SwiftIconFont+UITextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+UITextView.swift"; sourceTree = "<group>"; };
+		F4EDF2822927E5A8004FA2D8 /* SwiftIconTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftIconTextField.swift; sourceTree = "<group>"; };
+		F4EDF2832927E5A8004FA2D8 /* SwiftIconFont+UIBarButtonItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+UIBarButtonItem.swift"; sourceTree = "<group>"; };
+		F4EDF2842927E5A8004FA2D8 /* SwiftIconLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftIconLabel.swift; sourceTree = "<group>"; };
+		F4EDF2852927E5A8004FA2D8 /* SwiftIconFont+UITabBarItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+UITabBarItem.swift"; sourceTree = "<group>"; };
+		F4EDF2862927E5A8004FA2D8 /* SwiftIconStepper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftIconStepper.swift; sourceTree = "<group>"; };
+		F4EDF2872927E5A8004FA2D8 /* SwiftIconTabBarItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftIconTabBarItem.swift; sourceTree = "<group>"; };
+		F4EDF2882927E5A8004FA2D8 /* SwiftIconFont+UIButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+UIButton.swift"; sourceTree = "<group>"; };
+		F4EDF28A2927E5A8004FA2D8 /* SwiftIconFont+String.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+String.swift"; sourceTree = "<group>"; };
+		F4EDF28B2927E5A8004FA2D8 /* SwiftIconFont+NSRange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+NSRange.swift"; sourceTree = "<group>"; };
+		F4EDF28C2927E5A8004FA2D8 /* FontLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontLoader.swift; sourceTree = "<group>"; };
+		F4EDF28D2927E5A8004FA2D8 /* SwiftIconFont.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftIconFont.swift; sourceTree = "<group>"; };
+		F4EDF28F2927E5A8004FA2D8 /* SegoeMDL2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegoeMDL2.swift; sourceTree = "<group>"; };
+		F4EDF2902927E5A8004FA2D8 /* Captain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Captain.swift; sourceTree = "<group>"; };
+		F4EDF2912927E5A8004FA2D8 /* Octicon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Octicon.swift; sourceTree = "<group>"; };
+		F4EDF2922927E5A8004FA2D8 /* Iconic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Iconic.swift; sourceTree = "<group>"; };
+		F4EDF2932927E5A8004FA2D8 /* FontAwesome5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontAwesome5.swift; sourceTree = "<group>"; };
+		F4EDF2942927E5A8004FA2D8 /* MapIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapIcon.swift; sourceTree = "<group>"; };
+		F4EDF2952927E5A8004FA2D8 /* MaterialIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaterialIcon.swift; sourceTree = "<group>"; };
+		F4EDF2962927E5A8004FA2D8 /* IonIcons.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IonIcons.swift; sourceTree = "<group>"; };
+		F4EDF2972927E5A8004FA2D8 /* ElegantIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElegantIcon.swift; sourceTree = "<group>"; };
+		F4EDF2982927E5A8004FA2D8 /* Foundation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Foundation.swift; sourceTree = "<group>"; };
+		F4EDF2992927E5A8004FA2D8 /* ThemifyIcon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemifyIcon.swift; sourceTree = "<group>"; };
+		F4EDF29A2927E5A8004FA2D8 /* FontAwesome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontAwesome.swift; sourceTree = "<group>"; };
+		F4EDF29B2927E5A8004FA2D8 /* Types.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Types.swift; sourceTree = "<group>"; };
+		F4EDF29D2927E5A8004FA2D8 /* SwiftIconFont+NSButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+NSButton.swift"; sourceTree = "<group>"; };
+		F4EDF29E2927E5A8004FA2D8 /* SwiftIconFontNSView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftIconFontNSView.swift; sourceTree = "<group>"; };
+		F4EDF29F2927E5A8004FA2D8 /* SwiftIconFont+NSImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+NSImage.swift"; sourceTree = "<group>"; };
+		F4EDF2A02927E5A8004FA2D8 /* SwiftIconFont+NSTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SwiftIconFont+NSTextField.swift"; sourceTree = "<group>"; };
+		F4EDF2A22927E5A8004FA2D8 /* captainicon.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = captainicon.ttf; sourceTree = "<group>"; };
+		F4EDF2A32927E5A8004FA2D8 /* SegoeMDL2Assets.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SegoeMDL2Assets.ttf; sourceTree = "<group>"; };
+		F4EDF2A42927E5A8004FA2D8 /* octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = octicons.ttf; sourceTree = "<group>"; };
+		F4EDF2A52927E5A8004FA2D8 /* themify.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = themify.ttf; sourceTree = "<group>"; };
+		F4EDF2A62927E5A8004FA2D8 /* FontAwesome5Free-Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FontAwesome5Free-Solid.ttf"; sourceTree = "<group>"; };
+		F4EDF2A72927E5A8004FA2D8 /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ionicons.ttf; sourceTree = "<group>"; };
+		F4EDF2A82927E5A8004FA2D8 /* fontcustom.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = fontcustom.ttf; sourceTree = "<group>"; };
+		F4EDF2A92927E5A8004FA2D8 /* open-iconic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "open-iconic.ttf"; sourceTree = "<group>"; };
+		F4EDF2AA2927E5A8004FA2D8 /* FontAwesome5Brands-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FontAwesome5Brands-Regular.ttf"; sourceTree = "<group>"; };
+		F4EDF2AB2927E5A8004FA2D8 /* MaterialIcons-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "MaterialIcons-Regular.ttf"; sourceTree = "<group>"; };
+		F4EDF2AC2927E5A8004FA2D8 /* FontAwesome5Free-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "FontAwesome5Free-Regular.ttf"; sourceTree = "<group>"; };
+		F4EDF2AD2927E5A8004FA2D8 /* map-icons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "map-icons.ttf"; sourceTree = "<group>"; };
+		F4EDF2AE2927E5A8004FA2D8 /* ElegantIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ElegantIcons.ttf; sourceTree = "<group>"; };
+		F4EDF2AF2927E5A8004FA2D8 /* SwiftIconFont.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SwiftIconFont.h; sourceTree = "<group>"; };
+		F4EDF2B02927E5A8004FA2D8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,7 +103,7 @@
 		DA8D9D071D345A3800F5E693 = {
 			isa = PBXGroup;
 			children = (
-				DA8D9D131D345A3800F5E693 /* SwiftIconFont */,
+				F4EDF2742927DE3B004FA2D8 /* Sources */,
 				DA8D9D1F1D345A3800F5E693 /* SwiftIconFontTests */,
 				DA8D9D121D345A3800F5E693 /* Products */,
 			);
@@ -162,17 +118,6 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DA8D9D131D345A3800F5E693 /* SwiftIconFont */ = {
-			isa = PBXGroup;
-			children = (
-				DA8D9D3A1D345A4900F5E693 /* Classes */,
-				DA8D9D2B1D345A4500F5E693 /* Resources */,
-				DA8D9D141D345A3800F5E693 /* SwiftIconFont.h */,
-				DA8D9D161D345A3800F5E693 /* Info.plist */,
-			);
-			path = SwiftIconFont;
-			sourceTree = "<group>";
-		};
 		DA8D9D1F1D345A3800F5E693 /* SwiftIconFontTests */ = {
 			isa = PBXGroup;
 			children = (
@@ -182,100 +127,121 @@
 			path = SwiftIconFontTests;
 			sourceTree = "<group>";
 		};
-		DA8D9D2B1D345A4500F5E693 /* Resources */ = {
+		F4EDF2742927DE3B004FA2D8 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				1AF15B93209E196500E20C14 /* SegoeMDL2Assets.ttf */,
-				E8E4762F24885945005275C4 /* ElegantIcons.ttf */,
-				E8E476272488556C005275C4 /* fontcustom.ttf */,
-				E8E4763224885D4C005275C4 /* captainicon.ttf */,
-				E8E4762D248856CB005275C4 /* FontAwesome5Brands-Regular.ttf */,
-				E8E4762C248856CB005275C4 /* FontAwesome5Free-Regular.ttf */,
-				E8E4762E248856CB005275C4 /* FontAwesome5Free-Solid.ttf */,
-				DA8D9D2D1D345A4500F5E693 /* Ionicons.ttf */,
-				DA8D9D2E1D345A4500F5E693 /* map-icons.ttf */,
-				DA8D9D2F1D345A4500F5E693 /* MaterialIcons-Regular.ttf */,
-				DA8D9D301D345A4500F5E693 /* octicons.ttf */,
-				DA8D9D311D345A4500F5E693 /* open-iconic.ttf */,
-				DA8D9D321D345A4500F5E693 /* themify.ttf */,
+				F4EDF2752927E5A8004FA2D8 /* SwiftIconFont */,
 			);
-			path = Resources;
+			name = Sources;
+			path = /Users/simon/Projects/SwiftIconFont/Sources;
+			sourceTree = "<absolute>";
+		};
+		F4EDF2752927E5A8004FA2D8 /* SwiftIconFont */ = {
+			isa = PBXGroup;
+			children = (
+				F4EDF2762927E5A8004FA2D8 /* Classes */,
+				F4EDF2A12927E5A8004FA2D8 /* Resources */,
+				F4EDF2AF2927E5A8004FA2D8 /* SwiftIconFont.h */,
+				F4EDF2B02927E5A8004FA2D8 /* Info.plist */,
+			);
+			path = SwiftIconFont;
 			sourceTree = "<group>";
 		};
-		DA8D9D3A1D345A4900F5E693 /* Classes */ = {
+		F4EDF2762927E5A8004FA2D8 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				E8D081612488F610005A139F /* AppKit */,
-				E8D081602488F20E005A139F /* Shared */,
-				DAD008351F90D35800D4FC34 /* UIKit */,
+				F4EDF2772927E5A8004FA2D8 /* UIKit */,
+				F4EDF2892927E5A8004FA2D8 /* Shared */,
+				F4EDF29C2927E5A8004FA2D8 /* AppKit */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
 		};
-		DAD008351F90D35800D4FC34 /* UIKit */ = {
+		F4EDF2772927E5A8004FA2D8 /* UIKit */ = {
 			isa = PBXGroup;
 			children = (
-				DAD008201F90D16500D4FC34 /* SwiftIconFont+UIImage.swift */,
-				DAD008251F90D21F00D4FC34 /* SwiftIconFont+UITabBarItem.swift */,
-				DAD008271F90D23300D4FC34 /* SwiftIconFont+UIBarButtonItem.swift */,
-				DAD008291F90D24F00D4FC34 /* SwiftIconFont+UIButton.swift */,
-				DAD0082B1F90D26700D4FC34 /* SwiftIconFont+UITextField.swift */,
-				DAD0082D1F90D28300D4FC34 /* SwiftIconFont+UITextView.swift */,
-				DAD0082F1F90D2A700D4FC34 /* SwiftIconFont+UILabel.swift */,
-				DAD008371F90D44C00D4FC34 /* SwiftIconFont+UIImageView.swift */,
-				DA8D9D421D345A4900F5E693 /* SwiftIconBarButtonItem.swift */,
-				DA8D9D431D345A4900F5E693 /* SwiftIconButton.swift */,
-				DA8D9D451D345A4900F5E693 /* SwiftIconLabel.swift */,
-				DA8D9D461D345A4900F5E693 /* SwiftIconTabBarItem.swift */,
-				DA8D9D471D345A4900F5E693 /* SwiftIconTextField.swift */,
-				DA8D9D481D345A4900F5E693 /* SwiftIconTextView.swift */,
-				DA223AA81F160FAC005915D0 /* SwiftIconFontView.swift */,
-				DA639C411F62B959004810A6 /* SwiftIconStepper.swift */,
+				F4EDF2782927E5A8004FA2D8 /* SwiftIconFont+UITextField.swift */,
+				F4EDF2792927E5A8004FA2D8 /* SwiftIconBarButtonItem.swift */,
+				F4EDF27A2927E5A8004FA2D8 /* SwiftIconImageView.swift */,
+				F4EDF27B2927E5A8004FA2D8 /* SwiftIconFont+UILabel.swift */,
+				F4EDF27C2927E5A8004FA2D8 /* SwiftIconFontView.swift */,
+				F4EDF27D2927E5A8004FA2D8 /* SwiftIconFont+UIImage.swift */,
+				F4EDF27E2927E5A8004FA2D8 /* SwiftIconFont+UIImageView.swift */,
+				F4EDF27F2927E5A8004FA2D8 /* SwiftIconTextView.swift */,
+				F4EDF2802927E5A8004FA2D8 /* SwiftIconButton.swift */,
+				F4EDF2812927E5A8004FA2D8 /* SwiftIconFont+UITextView.swift */,
+				F4EDF2822927E5A8004FA2D8 /* SwiftIconTextField.swift */,
+				F4EDF2832927E5A8004FA2D8 /* SwiftIconFont+UIBarButtonItem.swift */,
+				F4EDF2842927E5A8004FA2D8 /* SwiftIconLabel.swift */,
+				F4EDF2852927E5A8004FA2D8 /* SwiftIconFont+UITabBarItem.swift */,
+				F4EDF2862927E5A8004FA2D8 /* SwiftIconStepper.swift */,
+				F4EDF2872927E5A8004FA2D8 /* SwiftIconTabBarItem.swift */,
+				F4EDF2882927E5A8004FA2D8 /* SwiftIconFont+UIButton.swift */,
 			);
 			path = UIKit;
 			sourceTree = "<group>";
 		};
-		DAD008361F90D37D00D4FC34 /* Fonts */ = {
+		F4EDF2892927E5A8004FA2D8 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
-				DA8D9D3B1D345A4900F5E693 /* FontAwesome.swift */,
-				E8E4762A24885662005275C4 /* FontAwesome5.swift */,
-				DA8D9D3D1D345A4900F5E693 /* Iconic.swift */,
-				DA8D9D3E1D345A4900F5E693 /* IonIcons.swift */,
-				DA8D9D3F1D345A4900F5E693 /* MapIcon.swift */,
-				DA8D9D401D345A4900F5E693 /* MaterialIcon.swift */,
-				DA8D9D411D345A4900F5E693 /* Octicon.swift */,
-				DA8D9D491D345A4900F5E693 /* ThemifyIcon.swift */,
-				1AF15B95209E198D00E20C14 /* SegoeMDL2.swift */,
-				E8E47628248855DE005275C4 /* Foundation.swift */,
-				E8E47630248859A4005275C4 /* ElegantIcon.swift */,
-				E8E4763324885D85005275C4 /* Captain.swift */,
-			);
-			path = Fonts;
-			sourceTree = "<group>";
-		};
-		E8D081602488F20E005A139F /* Shared */ = {
-			isa = PBXGroup;
-			children = (
-				DAD008361F90D37D00D4FC34 /* Fonts */,
-				DA8D9D3C1D345A4900F5E693 /* FontLoader.swift */,
-				DA8D9D441D345A4900F5E693 /* SwiftIconFont.swift */,
-				DAD008331F90D2FC00D4FC34 /* SwiftIconFont+String.swift */,
-				DAD008231F90D1D500D4FC34 /* SwiftIconFont+NSRange.swift */,
-				E80E87F0248D7B230053475F /* Types.swift */,
+				F4EDF28A2927E5A8004FA2D8 /* SwiftIconFont+String.swift */,
+				F4EDF28B2927E5A8004FA2D8 /* SwiftIconFont+NSRange.swift */,
+				F4EDF28C2927E5A8004FA2D8 /* FontLoader.swift */,
+				F4EDF28D2927E5A8004FA2D8 /* SwiftIconFont.swift */,
+				F4EDF28E2927E5A8004FA2D8 /* Fonts */,
+				F4EDF29B2927E5A8004FA2D8 /* Types.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
 		};
-		E8D081612488F610005A139F /* AppKit */ = {
+		F4EDF28E2927E5A8004FA2D8 /* Fonts */ = {
 			isa = PBXGroup;
 			children = (
-				E8D081622488F663005A139F /* SwiftIconFont+NSImage.swift */,
-				E884A47C248C21E00002AAAA /* SwiftIconFont+NSTextField.swift */,
-				E8244845248D245A0029AA09 /* SwiftIconFont+NSButton.swift */,
-				E809BAF8248D6A1E0039AAE0 /* SwiftIconFontNSView.swift */,
+				F4EDF28F2927E5A8004FA2D8 /* SegoeMDL2.swift */,
+				F4EDF2902927E5A8004FA2D8 /* Captain.swift */,
+				F4EDF2912927E5A8004FA2D8 /* Octicon.swift */,
+				F4EDF2922927E5A8004FA2D8 /* Iconic.swift */,
+				F4EDF2932927E5A8004FA2D8 /* FontAwesome5.swift */,
+				F4EDF2942927E5A8004FA2D8 /* MapIcon.swift */,
+				F4EDF2952927E5A8004FA2D8 /* MaterialIcon.swift */,
+				F4EDF2962927E5A8004FA2D8 /* IonIcons.swift */,
+				F4EDF2972927E5A8004FA2D8 /* ElegantIcon.swift */,
+				F4EDF2982927E5A8004FA2D8 /* Foundation.swift */,
+				F4EDF2992927E5A8004FA2D8 /* ThemifyIcon.swift */,
+				F4EDF29A2927E5A8004FA2D8 /* FontAwesome.swift */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		F4EDF29C2927E5A8004FA2D8 /* AppKit */ = {
+			isa = PBXGroup;
+			children = (
+				F4EDF29D2927E5A8004FA2D8 /* SwiftIconFont+NSButton.swift */,
+				F4EDF29E2927E5A8004FA2D8 /* SwiftIconFontNSView.swift */,
+				F4EDF29F2927E5A8004FA2D8 /* SwiftIconFont+NSImage.swift */,
+				F4EDF2A02927E5A8004FA2D8 /* SwiftIconFont+NSTextField.swift */,
 			);
 			path = AppKit;
+			sourceTree = "<group>";
+		};
+		F4EDF2A12927E5A8004FA2D8 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F4EDF2A22927E5A8004FA2D8 /* captainicon.ttf */,
+				F4EDF2A32927E5A8004FA2D8 /* SegoeMDL2Assets.ttf */,
+				F4EDF2A42927E5A8004FA2D8 /* octicons.ttf */,
+				F4EDF2A52927E5A8004FA2D8 /* themify.ttf */,
+				F4EDF2A62927E5A8004FA2D8 /* FontAwesome5Free-Solid.ttf */,
+				F4EDF2A72927E5A8004FA2D8 /* Ionicons.ttf */,
+				F4EDF2A82927E5A8004FA2D8 /* fontcustom.ttf */,
+				F4EDF2A92927E5A8004FA2D8 /* open-iconic.ttf */,
+				F4EDF2AA2927E5A8004FA2D8 /* FontAwesome5Brands-Regular.ttf */,
+				F4EDF2AB2927E5A8004FA2D8 /* MaterialIcons-Regular.ttf */,
+				F4EDF2AC2927E5A8004FA2D8 /* FontAwesome5Free-Regular.ttf */,
+				F4EDF2AD2927E5A8004FA2D8 /* map-icons.ttf */,
+				F4EDF2AE2927E5A8004FA2D8 /* ElegantIcons.ttf */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -285,7 +251,6 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DA8D9D151D345A3800F5E693 /* SwiftIconFont.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -372,13 +337,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DA8D9D371D345A4500F5E693 /* octicons.ttf in Resources */,
-				DA8D9D381D345A4500F5E693 /* open-iconic.ttf in Resources */,
-				DA8D9D341D345A4500F5E693 /* Ionicons.ttf in Resources */,
-				DA8D9D351D345A4500F5E693 /* map-icons.ttf in Resources */,
-				DA8D9D391D345A4500F5E693 /* themify.ttf in Resources */,
-				1AF15B94209E196500E20C14 /* SegoeMDL2Assets.ttf in Resources */,
-				DA8D9D361D345A4500F5E693 /* MaterialIcons-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -396,43 +354,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DA8D9D541D345A4900F5E693 /* SwiftIconLabel.swift in Sources */,
-				DA8D9D511D345A4900F5E693 /* SwiftIconBarButtonItem.swift in Sources */,
-				DA8D9D4C1D345A4900F5E693 /* Iconic.swift in Sources */,
-				DA8D9D4A1D345A4900F5E693 /* FontAwesome.swift in Sources */,
-				DAD008261F90D21F00D4FC34 /* SwiftIconFont+UITabBarItem.swift in Sources */,
-				DA8D9D531D345A4900F5E693 /* SwiftIconFont.swift in Sources */,
-				E80E87F1248D7B230053475F /* Types.swift in Sources */,
-				DA639C421F62B959004810A6 /* SwiftIconStepper.swift in Sources */,
-				DA8D9D581D345A4900F5E693 /* ThemifyIcon.swift in Sources */,
-				E8E4763424885D85005275C4 /* Captain.swift in Sources */,
-				E8D081632488F663005A139F /* SwiftIconFont+NSImage.swift in Sources */,
-				DAD008341F90D2FC00D4FC34 /* SwiftIconFont+String.swift in Sources */,
-				DA8D9D551D345A4900F5E693 /* SwiftIconTabBarItem.swift in Sources */,
-				E8244846248D245A0029AA09 /* SwiftIconFont+NSButton.swift in Sources */,
-				DA8D9D561D345A4900F5E693 /* SwiftIconTextField.swift in Sources */,
-				E8E47629248855DE005275C4 /* Foundation.swift in Sources */,
-				E8E47631248859A4005275C4 /* ElegantIcon.swift in Sources */,
-				E8E4762B24885663005275C4 /* FontAwesome5.swift in Sources */,
-				DAD008211F90D16500D4FC34 /* SwiftIconFont+UIImage.swift in Sources */,
-				DA8D9D4B1D345A4900F5E693 /* FontLoader.swift in Sources */,
-				E884A47D248C21E00002AAAA /* SwiftIconFont+NSTextField.swift in Sources */,
-				DAD008241F90D1D500D4FC34 /* SwiftIconFont+NSRange.swift in Sources */,
-				DA8D9D571D345A4900F5E693 /* SwiftIconTextView.swift in Sources */,
-				DA223AA91F160FAC005915D0 /* SwiftIconFontView.swift in Sources */,
-				DA8D9D521D345A4900F5E693 /* SwiftIconButton.swift in Sources */,
-				DAD008381F90D44C00D4FC34 /* SwiftIconFont+UIImageView.swift in Sources */,
-				E809BAF9248D6A1E0039AAE0 /* SwiftIconFontNSView.swift in Sources */,
-				DA8D9D501D345A4900F5E693 /* Octicon.swift in Sources */,
-				DAD008301F90D2A700D4FC34 /* SwiftIconFont+UILabel.swift in Sources */,
-				1AF15B96209E198D00E20C14 /* SegoeMDL2.swift in Sources */,
-				DAD0082A1F90D24F00D4FC34 /* SwiftIconFont+UIButton.swift in Sources */,
-				DA8D9D4F1D345A4900F5E693 /* MaterialIcon.swift in Sources */,
-				DA8D9D4E1D345A4900F5E693 /* MapIcon.swift in Sources */,
-				DAD0082C1F90D26700D4FC34 /* SwiftIconFont+UITextField.swift in Sources */,
-				DA8D9D4D1D345A4900F5E693 /* IonIcons.swift in Sources */,
-				DAD008281F90D23300D4FC34 /* SwiftIconFont+UIBarButtonItem.swift in Sources */,
-				DAD0082E1F90D28300D4FC34 /* SwiftIconFont+UITextView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -573,7 +494,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = SwiftIconFont/Info.plist;
+				INFOPLIST_FILE = Sources/SwiftIconFont/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
@@ -591,7 +512,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = SwiftIconFont/Info.plist;
+				INFOPLIST_FILE = Sources/SwiftIconFont/Info.plist;
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";

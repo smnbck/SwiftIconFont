@@ -15,8 +15,8 @@ Pod::Spec.new do |s|
   s.swift_version = "5.0"
   s.osx.frameworks = 'AppKit'
 
-  s.ios.source_files = s.tvos.source_files = 'SwiftIconFont/Classes/UIKit/**/*'
-  s.osx.source_files = 'SwiftIconFont/Classes/AppKit/**/*.{swift}'
-  s.source_files = "SwiftIconFont/Classes/Shared/**/*"
-  s.resources = "SwiftIconFont/Resources/*.{ttf}"
+  s.ios.source_files = s.tvos.source_files = 'Sources/SwiftIconFont/Classes/UIKit/**/*'
+  s.osx.source_files = 'Sources/SwiftIconFont/Classes/AppKit/**/*.{swift}'
+  s.source_files = "Sources/SwiftIconFont/Classes/Shared/**/*"
+  s.resources = "Sources/SwiftIconFont/Resources/*.{ttf}"
 end
